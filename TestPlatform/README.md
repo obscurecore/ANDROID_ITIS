@@ -1,5 +1,6 @@
 # TestPlatform
 Песочница для запуска консольных Java-программ под Android
+
 ![screenshot](screenshot.png)
 
 ## Структура проекта
