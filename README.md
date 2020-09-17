@@ -15,6 +15,9 @@ Fundumentals:
 4. Algorithms by Robert Sedgewick 
 
 ## Table of Contents
+
+1. **Ex**
+    1. [Песочница TestPlatform](TestPlatform/README.md)
 1. **Основы языка Java**
    1. [Инструкция GitHub](1.Module/1.1.md)
    1. [Типы данных и операции](1.Module/1.2.md)
