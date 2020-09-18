@@ -13,7 +13,7 @@
     <string name="user_class_name">MyProgram</string>
     <string name="user_program_not_found">User\'s class is not found!</string>
     <string name="main_not_found">Method main is not found!</string>
-    <string name="greetings">Greetings!</string>
+    <string name="greetings">Привет!</string>
 
 
 </resources>
